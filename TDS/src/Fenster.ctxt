@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=title\ width\ height
+comment0.target=Fenster(java.lang.String,\ int,\ int)
+comment1.params=component
+comment1.target=void\ addToContentPane(javax.swing.JComponent)
+comment2.params=
+comment2.target=void\ initialize()
+comment3.params=
+comment3.target=void\ generateMenu()
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.params=e
+comment8.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=9

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ rndmX()
+comment0.text=\r\n\ Fuer\ die\ X-Position\ des\ Ufos\ (in\ PhysicsEngine)\r\n
+comment1.params=
+comment1.target=int\ rndmAnzahl()
+comment1.text=\r\n\ Wie\ viele\ Ufos\ erzeugt\ werden\ (in\ PhysicsEngine)\r\n
+comment2.params=dropWertungen
+comment2.target=int\ rndmDrops(int[])
+comment3.params=
+comment3.target=int\ gibZufallszahl()
+comment4.params=max
+comment4.target=int\ gibZufallszahl(int)
+comment5.params=min\ max
+comment5.target=int\ gibZufallszahl(int,\ int)
+numComments=6

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Tastatur()
+comment1.params=t
+comment1.target=void\ subscribe(TastenListener)
+comment2.params=t
+comment2.target=void\ unsubscribe(TastenListener)
+comment3.params=t
+comment3.target=void\ add(TastenListener)
+comment4.params=t
+comment4.target=void\ remove(TastenListener)
+comment5.params=e
+comment5.target=boolean\ dispatchKeyEvent(java.awt.event.KeyEvent)
+comment6.params=taste
+comment6.target=boolean\ isPressedS(int)
+comment7.params=taste
+comment7.target=boolean\ isPressed(int)
+comment8.params=message
+comment8.target=void\ log(java.lang.String)
+numComments=9

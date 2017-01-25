@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ fill()
+comment0.text=\r\n\ Only\ run\ after\ initialising\ the\ Window\!\!\r\n\ will\ throw\ NPE\ otherwise\!\r\n
+comment1.params=lines
+comment1.target=void\ setAmountLines(int)
+comment2.params=message
+comment2.target=void\ fill(java.lang.String)
+comment3.params=s
+comment3.target=void\ append(java.lang.String)
+numComments=4

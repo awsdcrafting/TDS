@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Bild()
+comment1.params=image
+comment1.target=Bild(java.awt.Image)
+comment2.params=image\ drawAll
+comment2.target=Bild(java.awt.Image,\ boolean)
+comment3.params=bild
+comment3.target=Bild(java.lang.String)
+comment4.params=bild\ drawAll
+comment4.target=Bild(java.lang.String,\ boolean)
+comment5.params=
+comment5.target=boolean\ isValid()
+comment6.params=image
+comment6.target=void\ setImage(java.awt.Image)
+comment7.params=g
+comment7.target=void\ paint(java.awt.Graphics)
+numComments=8
