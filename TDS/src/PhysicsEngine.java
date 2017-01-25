@@ -5,6 +5,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
+//much to change!
 public class PhysicsEngine extends Thread
 {
 	private boolean laeuft;
